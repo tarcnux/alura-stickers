@@ -1,7 +1,12 @@
 # [Alura Stickers](https://www.alura.com.br/imersao-java/aulas/aula01-consumindo-api-com-java)
 
-## Aula 01
+## AULA 01 - [CONSUMINDO UMA API DE FILMES COM JAVA](https://www.alura.com.br/imersao-java/aulas/aula01-consumindo-api-com-java)
+
 Construção de uma aplicação Java do zero, utilizando VSCode como IDE, para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação... Tudo isso sem usar nenhuma biblioteca externa!
+
+## AULA 02 - [GERANDO FIGURINHAS PARA WHATSAPP](https://www.alura.com.br/imersao-java/aulas/aula02-stickers-com-whatsapp)
+
+
 
 ### Getting Started
 
